@@ -1,2 +1,2 @@
-# web-rating-creativity
-Web page for rating creativity
+# Web page for Rating Creativity
+Personal webpage through which people can access the rating creativity application.
